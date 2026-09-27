@@ -1,0 +1,6 @@
+{
+  "name": "Belle Food - Modern Restaurant & Online Ordering",
+  "description": "Delicious food delivered to your door. Browse mouthwatering meals, customize your dishes, order online with secure Paystack payments, and track delivery in real time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
